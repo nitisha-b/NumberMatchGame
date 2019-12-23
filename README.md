@@ -1,4 +1,4 @@
-# NumberMatchGame
+# Number Match Game
 
 Followed through a course on LinkedIn Learning to learn the basics of JavaScript and create a game using *p5js*. 
 
