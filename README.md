@@ -1,6 +1,6 @@
 # Number Match Game
 
-Followed through a course on LinkedIn Learning to learn the basics of JavaScript and create a game using **p5js**. 
+Followed through a course on LinkedIn Learning to learn the basics of JavaScript and create a game using the **p5js** library. 
 
 ## Game Description
 
